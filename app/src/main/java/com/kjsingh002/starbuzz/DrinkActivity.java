@@ -5,6 +5,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 
 public class DrinkActivity extends AppCompatActivity {
+    final static String RECIEVE_ID = "DRINK_ID";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

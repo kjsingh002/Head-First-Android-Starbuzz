@@ -10,7 +10,6 @@
         android:id="@+id/list_of_drinks"
         android:layout_width="409dp"
         android:layout_height="729dp"
-        android:entries="@array/list_of_drinks"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
