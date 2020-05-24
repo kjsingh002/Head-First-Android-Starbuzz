@@ -4,7 +4,7 @@ public class Drink {
     private String name;
     private String description;
     private int image;
-    public static Drink[] drinks = {new Drink("Latte","",R.drawable.latte),new Drink("Cappuccino","",R.drawable.cappuccino),new Drink("Filter","",R.drawable.filter)};
+    public static Drink[] drinks = {new Drink("Latte","A couple of espresso shots with steamed milk",R.drawable.latte),new Drink("Cappuccino","Espresso, hot milk, and a steamed milk foam",R.drawable.cappuccino),new Drink("Filter","Highest quality beans roasted and brewed fresh",R.drawable.filter)};
 
     public Drink(String name, String description, int image) {
         this.name = name;
